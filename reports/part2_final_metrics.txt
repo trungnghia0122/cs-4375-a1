@@ -1,0 +1,17 @@
+Best params: eta0=0.0003, max_iter=10000
+Test MSE: 0.546553
+Test R2: 0.259961
+Explained Variance: 0.260341
+Intercept: 5.821729
+Coefficients:
+  fixed_acidity: 0.100114
+  volatile_acidity: -0.216200
+  citric_acid: -0.022515
+  residual_sugar: 0.219828
+  chlorides: -0.010514
+  free_sulfur_dioxide: 0.122534
+  total_sulfur_dioxide: -0.152142
+  density: -0.176019
+  pH: 0.080578
+  sulphates: 0.119989
+  alcohol: 0.323256

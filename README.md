@@ -1,2 +1,9 @@
-# cs-4375-a1
-Linear Regression using Gradient Descent
+# CS 4375 A1 — Linear Regression (Part 1 and Part 2)
+
+## Environment
+```bash
+1. python3 -m venv venv
+
+2. source venv/bin/activate     # Windows: .\venv\Scripts\Activate
+
+3. python -m pip install -r requirements.txt
