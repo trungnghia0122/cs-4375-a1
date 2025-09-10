@@ -1,5 +1,7 @@
 # CS 4375 A1 — Linear Regression (Part 1 and Part 2)
 
+# Tony Tran ttt210004
+
 ## Environment
 ```bash
 1. python3 -m venv venv
